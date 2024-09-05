@@ -1,5 +1,5 @@
 # CAPSTONE-PROJECT
-Overview
+  Overview
 The project involves analyzing financial data for Western countries using Power BI. 
 The goal is to provide a comprehensive overview of sales and profit metrics across various products, segments, and regions to enable better business decisions1.
 Data Visualization and Analysis:
